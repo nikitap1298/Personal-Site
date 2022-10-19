@@ -1,0 +1,49 @@
+body {
+  background-color: #EAF6F6;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: "Nunito-Bold";
+}
+
+h3 {
+  color: #66BFBF;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Lora-Bold";
+}
+
+p {
+  font-family: "Lora-Regular";
+}
+
+ul {
+  text-align: left;
+  font-family: "Lora-Regular";
+}
+
+table, th, td {
+  text-align: left;
+  font-family: "Lora-Regular";
+}
+
+a {
+  font-family: "Lora-Regular";
+}
+
+form {
+  font-family: "Lora-Regular";
+}
+
+input {
+  font-family: "Lora-Regular";
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 3%;
+}
